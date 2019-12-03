@@ -1,4 +1,4 @@
-# Recommend Ethereum Resources
+# Recommended Ethereum Resources
 
 ## Books
 [Ethereum for Web Developers](https://www.amazon.com/Ethereum-Web-Developers-Applications-Blockchain/dp/1484252772)
